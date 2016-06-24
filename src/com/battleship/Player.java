@@ -5,6 +5,8 @@ package com.battleship;
  */
 public class Player {
 
+    int[] Ship;
+
     public void shoot(int positionX, int positionY){
         //to do
     }
